@@ -1,0 +1,31 @@
+# Homebrew taps (alphabetical order)
+tap "homebrew/bundle"       # Bundler for Homebrew
+tap "hashicorp/tap"         # HashiCorp tools
+
+# CLI tools and utilities (alphabetical order)
+brew "ballerina"    # Cloud-native programming language
+brew "bat"          # Cat clone with syntax highlighting
+brew "curl"         # Command-line tool for transferring data with URLs
+brew "deno"         # JavaScript and TypeScript runtime
+brew "eza"          # Improved 'ls' command with Git support
+brew "fd"           # Simple, fast alternative to 'find'
+brew "fish"         # User-friendly command-line shell
+brew "flyctl"       # Command-line interface for Fly.io
+brew "fzf"          # Command-line fuzzy finder
+brew "gh"           # GitHub CLI
+brew "gum"          # Tool for glamorous shell scripts
+brew "httpie"       # Modern command-line HTTP client
+brew "jq"           # Lightweight and flexible command-line JSON processor
+brew "mas"          # Mac App Store command-line interface
+brew "n"            # Node version management
+brew "openjdk"      # OpenJDK Java Development Kit
+brew "pnpm"         # Fast, disk space efficient package manager
+brew "rbenv"        # Ruby version management
+brew "ruby"         # Dynamic, open-source programming language
+brew "sqlite"       # Self-contained, embedded SQL database engine
+brew "starship"     # Minimal, blazing-fast, customizable prompt
+brew "sui"          # Programmable and scalable blockchain
+brew "thefuck"      # Corrects your previous console command
+brew "wget"         # Retrieves content from web servers
+brew "z"            # Jump around
+brew "zoxide"       # Smarter cd command 

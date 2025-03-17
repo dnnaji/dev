@@ -1,0 +1,31 @@
+# Homebrew taps for casks
+tap "buo/cask-upgrade"      # Helps upgrade cask applications
+tap "homebrew/bundle"       # Bundler for Homebrew
+tap "homebrew/cask-fonts"   # For font casks
+
+# Homebrew Casks: macOS applications (alphabetical order)
+cask "arc"                      # Browser
+cask "bartender"                # Menu bar organizer
+cask "bruno"                    # API client
+cask "cursor"                   # Code editor
+cask "discord"                  # Chat and voice communication
+cask "expressvpn"               # VPN client
+cask "font-fira-code"           # Programming font
+cask "font-fira-code-nerd-font" # Programming font with icons
+cask "font-fira-mono-nerd-font" # Programming font with icons
+cask "font-hack-nerd-font"      # Programming font with icons
+cask "ghostty"                  # Terminal emulator
+cask "google-chrome"            # Web browser
+cask "google-drive"             # File sync and backup
+cask "itsycal"                  # Menu bar calendar
+cask "logi-options-plus"        # Logitech mouse/keyboard manager
+cask "maccy"                    # Clipboard manager
+cask "microsoft-edge"           # Web browser
+cask "raycast"                  # Launcher and productivity tool
+cask "signal"                   # Secure messaging
+cask "slack"                    # Team communication
+cask "sublime-text"             # Text editor
+cask "telegram"                 # Messaging app
+cask "zed"                      # Text editor
+cask "zen-browser"              # Minimal web browser
+cask "zoom"                     # Video meetings 

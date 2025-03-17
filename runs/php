@@ -1,4 +1,0 @@
-#!/usr/bin/env bash
-
-/bin/bash -c "$(curl -fsSL https://php.new/install/linux)"
-mv ~/.profile ~/.php_profile
