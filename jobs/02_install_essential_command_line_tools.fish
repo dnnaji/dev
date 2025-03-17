@@ -14,7 +14,7 @@ end
 
 # Install essential command line tools
 print_info "Installing essential command line tools..."
-set essential_tools git gh chezmoi jq fzf zoxide bat eza fd ripgrep
+set essential_tools git gh chezmoi jq fzf zoxide bat eza fd ripgrep expect
 
 for tool in $essential_tools
     if not command_exists $tool
